@@ -25,5 +25,5 @@ This is a simple chat application built using **Node.js**, **Express.js**, **Mon
 
 ---
 
-## 📁 Project Structure
+
 
